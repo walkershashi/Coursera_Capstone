@@ -19,6 +19,9 @@ of deaths.
 
 In this model we wish to target the most common reason why road accidents occurs. We look at the most important aspects and attributes for the road accident, targetting the most common and the most <code>fatal roads/areas</code> in terms of most <code>accidents/fatal rates</code>.
 
+
+### Target Audience
+
 This model wish to answer who is most affected by these accidents.
     
     - Pedastrians
