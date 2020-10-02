@@ -103,3 +103,9 @@ Stopped- Sideswipe </td>
 Moving - Rear End </td>
   </tr>
 </table>
+
+<br>
+
+### You can have a look at the Dataset <a href = 'https://s3.us.cloud-object-storage.appdomain.cloud/cf-courses-data/CognitiveClass/DP0701EN/version-2/Data-Collisions.csv' target='_blank'>here</a>. 
+
+### Description of the data and its attribute can be found <a href = 'https://s3.us.cloud-object-storage.appdomain.cloud/cf-courses-data/CognitiveClass/DP0701EN/version-2/Metadata.pdf' target='_blank'>here</a>.
